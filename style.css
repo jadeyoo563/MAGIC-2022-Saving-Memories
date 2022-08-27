@@ -1,0 +1,38 @@
+html, body { height: 100%; width: 100%; background-color:lightyellow }
+
+#ActivityPage, #Resources, #AboutMe, #Blog, #Results, #Home{
+  color:black;
+  text-decoration:none;
+  margin-left: 20px;
+  padding-top: 20px;
+  font-size: 30px;
+  padding-right: 30px;
+
+
+}
+
+#log-your-memory{
+  height:200px;
+  width:200px;
+}
+
+#logo{
+  height:75px;
+  width:250px;
+  float: left;
+}
+
+#ElderlyCouple, #Depression, #ErasingBrain, #ActivityLogo, #MyImage{
+  border-width:3px;
+  border-color:black;
+  border-style:solid;
+}
+
+#LinkToReport, #LinkToVideos{
+  font-size:20px;
+}
+
+#TypesOfDementia, #DepressionSymptoms{
+  font-size:18px;
+}
+
